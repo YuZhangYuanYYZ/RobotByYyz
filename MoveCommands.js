@@ -70,8 +70,8 @@ class MoveCommands {
     }
 }
 
-const moveCommands = new MoveCommands();
-const move1 = moveCommands.moveCommand(true, "S", 0, 0);
-console.log(move1);
+//const moveCommands = new MoveCommands();
+//const move1 = moveCommands.moveCommand(true, "S", 0, 0);
+//console.log(move1);
 module.exports = MoveCommands;
 
